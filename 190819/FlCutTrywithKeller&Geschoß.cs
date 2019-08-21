@@ -277,7 +277,7 @@ namespace MyRevitCommands
                 Floor FL;
                 List<Floor> stories = new List<Floor>();
                 
-                if (keller == "Jaa")
+                if (keller == "Ja")
                 {
 
                     for (int i = 0; i <= geschoss; i++)
