@@ -1,0 +1,6 @@
+Keller+GeschoßMaxUpto4
+
+The code now gives the option of selecteing the number of Geschoß upto a maximum number 4 that is we can select 1, 2, 3 or 4.
+Also as we had before it also contains the optionn of keller 'Ja' oder 'Nein'
+
+This is acheived by a series of if and elseif conditions.
